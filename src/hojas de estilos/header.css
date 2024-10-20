@@ -1,0 +1,24 @@
+
+nav{
+    background-color: #FFD200;
+    /* height: 10vh; */
+    padding: 5px;
+}
+.logo1{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    width: 15%;
+    height: 10vh;
+}
+.logo2{
+    display: flex;
+    justify-content: center;
+    /* width: 10%; */
+    height: 10vh;
+    padding-right: 5px;
+}
