@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Friscolaboradores/static/css/main.1d35c0c2.css",
+    "main.js": "/Friscolaboradores/static/js/main.3ea7c491.js",
+    "static/media/post-1024x1024.jpg": "/Friscolaboradores/static/media/post-1024x1024.86c72d7e83f2bc26678d.jpg",
+    "static/media/frisby-1660333191115.jpg": "/Friscolaboradores/static/media/frisby-1660333191115.3e1a9d6e778ce8043b17.jpg",
+    "static/media/9ceaf-editable-27-02.jpg": "/Friscolaboradores/static/media/9ceaf-editable-27-02.33d8bda82bb75b3825b7.jpg",
+    "static/media/Pollo-Apanado-Cuarto.png": "/Friscolaboradores/static/media/Pollo-Apanado-Cuarto.5d4a512b8659b013e05c.png",
+    "static/media/Frisby-Liviano-Sopas.png": "/Friscolaboradores/static/media/Frisby-Liviano-Sopas.1cf1e1d861adc7ace6a2.png",
+    "static/media/frisby.png": "/Friscolaboradores/static/media/frisby.f4024bec8f3e05f7c946.png",
+    "static/media/FRISCOLABORADORES.png": "/Friscolaboradores/static/media/FRISCOLABORADORES.6accd85d7d4f67f5b120.png",
+    "static/media/footer.png": "/Friscolaboradores/static/media/footer.02ee640e19418c73e02f.png",
+    "static/media/Promociones-FrisbyClasico-Sopa.png": "/Friscolaboradores/static/media/Promociones-FrisbyClasico-Sopa.2c3368fa90c58e545f8a.png",
+    "static/media/frisby-modal-2.png": "/Friscolaboradores/static/media/frisby-modal-2.af73c4908aa741b43eb8.png",
+    "static/media/logo-frisby.svg": "/Friscolaboradores/static/media/logo-frisby.b58134a8b9d1373884db9902f2d03249.svg",
+    "index.html": "/Friscolaboradores/index.html",
+    "main.1d35c0c2.css.map": "/Friscolaboradores/static/css/main.1d35c0c2.css.map",
+    "main.3ea7c491.js.map": "/Friscolaboradores/static/js/main.3ea7c491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d35c0c2.css",
+    "static/js/main.3ea7c491.js"
+  ]
+}
